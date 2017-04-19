@@ -1,4 +1,7 @@
-# test coverage for  [pdfmake (v0.1.27)](http://pdfmake.org)  [![npm package](https://img.shields.io/npm/v/npmtest-pdfmake.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pdfmake) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pdfmake.svg)](https://travis-ci.org/npmtest/node-npmtest-pdfmake)
+# npmtest-pdfmake
+
+#### basic test coverage for  [pdfmake (v0.1.27)](http://pdfmake.org)  [![npm package](https://img.shields.io/npm/v/npmtest-pdfmake.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pdfmake) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pdfmake.svg)](https://travis-ci.org/npmtest/node-npmtest-pdfmake)
+
 #### Client/server side PDF printing in pure JavaScript
 
 [![NPM](https://nodei.co/npm/pdfmake.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pdfmake)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-pdfmake/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-pdfmake/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pdfmake/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pdfmake/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-pdfmake/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-pdfmake/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-pdfmake/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-pdfmake/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-pdfmake/build/test-report.html](https://npmtest.github.io/node-npmtest-pdfmake/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-pdfmake/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-pdfmake/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-pdfmake/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-pdfmake/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-pdfmake/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pdfmake/build/apidoc.html)
 
